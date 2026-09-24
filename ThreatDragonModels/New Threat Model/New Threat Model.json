@@ -13,6 +13,15 @@
     "diagrams": [
       {
         "id": 0,
+        "title": "New CIA diagram",
+        "diagramType": "CIA",
+        "placeholder": "New CIA diagram description",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "version": "2.6.2",
+        "cells": []
+      },
+      {
+        "id": 1,
         "title": "New STRIDE diagram",
         "diagramType": "STRIDE",
         "placeholder": "New STRIDE diagram description",
@@ -21,7 +30,7 @@
         "cells": []
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "asASas",
     "threatTop": 0
   }
