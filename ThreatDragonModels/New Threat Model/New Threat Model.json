@@ -13,12 +13,13 @@
     "diagrams": [
       {
         "id": 0,
-        "title": "New CIA diagram",
+        "title": "New CIA diagramasASas",
         "diagramType": "CIA",
         "placeholder": "New CIA diagram description",
         "thumbnail": "./public/content/images/thumbnail.cia.jpg",
         "version": "2.6.2",
-        "cells": []
+        "cells": [],
+        "description": "asaSasaS"
       },
       {
         "id": 1,
